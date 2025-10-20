@@ -1,0 +1,7 @@
+
+html, body, #__next { height: 100%; margin: 0; font-family: Inter, system-ui, Arial; }
+.container { max-width: 900px; margin: 24px auto; padding: 16px; }
+.card { border: 1px solid #ddd; padding: 12px; border-radius: 8px; margin-bottom: 12px; }
+.row { display:flex; gap:8px; }
+input, textarea { width:100%; padding:8px; border:1px solid #ccc; border-radius:4px; }
+button { padding:8px 12px; border-radius:6px; border:none; cursor:pointer; }
